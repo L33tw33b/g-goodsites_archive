@@ -1,4 +1,4 @@
-# goodsites_archive<br>
+# 4chan /g/ goodsites_archive<br>
 List of sites based on https://www.goodsites.tech since domain name expired<br>
 
 ## Alternative search engines:
