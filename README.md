@@ -2,8 +2,8 @@
 List of sites based on https://www.goodsites.tech since domain name expired<br>
 
 ## Alternative search engines:
-- [wiby.me](wiby.me) - A search engine for older style pages.<br>
-- [theoldnet.com](theoldnet.com)- A retro search engine for retro websites.<br>
+* [wiby.me](wiby.me) - A search engine for older style pages.<br>
+* [theoldnet.com](theoldnet.com)- A retro search engine for retro websites.<br>
 - [trace.moe](trace.moe) - A search engine for anime screenshots. Won't work with crops. It will give episode and timestamp of a good screenshot.<br>
 - [filelisting.com](filelisting.com) - FileListing (pretty good at searching for torrents)<br>
 - [megasearch.co](megasearch.co) - MegaSearch (searches for public files on MEGA, MediaFire, etc.)<br>
