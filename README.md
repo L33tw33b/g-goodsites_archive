@@ -1,2 +1,816 @@
-# goodsites_archive
-List of sites based on https://www.goodsites.tech since domain name expired
+# goodsites_archive<br>
+List of sites based on https://www.goodsites.tech since domain name expired<br>
+
+## Alternative search engines:
+- [wiby.me](wiby.me) - A search engine for older style pages.<br>
+- [theoldnet.com](theoldnet.com)- A retro search engine for retro websites.<br>
+- [trace.moe](trace.moe) - A search engine for anime screenshots. Won't work with crops. It will give episode and timestamp of a good screenshot.<br>
+- [filelisting.com](filelisting.com) - FileListing (pretty good at searching for torrents)<br>
+- [megasearch.co](megasearch.co) - MegaSearch (searches for public files on MEGA, MediaFire, etc.)<br>
+- [dedigger.com](dedigger.com) - dedigger (search for public files on Google Drive) <br>
+- [eyeofjustice.com/od](eyeofjustice.com/od) - Open Directory Search Portal<br>
+- [mmnt.ru/int](mmnt.ru/int) - Mamont FTP search engine<br>
+- [search.mibbit.com](search.mibbit.com) - search engine for IRC<br>
+- [searchftps.net](searchftps.net) - NAPALM FTP search engine<br>
+- [filepursuit.com](filepursuit.com) - FilePursuit<br>
+- [lumpysoft.com](lumpysoft.com) - Google Index Search <br> 
+- [musgle.com](musgle.com) - Search music files through google<br>
+- [opendirsearch.abifog.com](opendirsearch.abifog.com) - Open Directory Search Portal<br>
+- [palined.com/search](palined.com/search) - Google Open Directory Search<br>
+- [proisk.com](proisk.com) - proisk search and ftp<br>
+- [snowfl.com](snowfl.com) - snowfl (searches various public torrent indexes)<br>
+- [libraries.io](libraries.io) - Search open source packages, frameworks and tools...<br>
+- [gifcities.org](gifcities.org) - The GeoCities Animated GIF Search Engine<br>
+- [shodan.io](shodan.io) - Search engine for IoT devices, you can access ones with no pw set<br>
+- [catfiles.net](catfiles.net) - Open directory search engine combining results of Files, Audios, Videos, eBooks, Softwares & more<br>
+- [bugmenot.com](bugmenot.com) - Find and share logins instead of registering an account for something you don't care about.<br>
+- [filechef.com](filechef.com) - File finder using google dorks.<br>
+- [odcrawler.xyz](odcrawler.xyz) - Open directory crawler.<br>
+- [alltheinternet.com](alltheinternet.com) - private, customizable alternative to Google.<br>
+- [all-io.net](all-io.net) - All major search engines in one.<br>
+- [faganfinder.com](faganfinder.com) - Quick pick search engine changer.<br>
+## Miscellaneous Interesting sites:<br>
+- [the-eye.eu/public](the-eye.eu/public) - An archive of random files.<br>                                                                               
+- [filldisk.com](filldisk.com) - Fill your hardrive with cats<br>
+- [opentopia.com](opentopia.com) - Random open webcams<br>
+- [info.cern.ch](info.cern.ch) - The first ever website.<br>
+- [notpron.org/notpron](notpron.org/notpron) - A riddle site.<br>
+- [hp9845.net/9845/software/screenart/9845cdemo](hp9845.net/9845/software/screenart/9845cdemo) - Gallery of screen art with an HP 9845C<br>
+- [worldbirthsanddeaths.com](worldbirthsanddeaths.com) - Births and deaths simulator.<br>
+- [metafilter.com](metafilter.com) - A sort of shared blog / news site<br>
+- [degrowth.org](degrowth.org) - reversing the damage we do to our world<br>
+- [en.m.wikipedia.org/wiki/Portal:Current_events](en.m.wikipedia.org/wiki/Portal:Current_events) - Documents timeline of world events all the way back from the 20th century<br>
+- [usemumble.neocities.org](usemumble.neocities.org) - Why mumble is a Chad and Discord is a virgin.<br>
+- [digdeeper.neocities.org](digdeeper.neocities.org) - Seems like Anon's blog, if he wants a better explaination he can provide a description.<br>
+- [greaterwrong.com](greaterwrong.com) - Posts about how to think.<br>
+- [singularity2050.com/2010/01/the-misandry-bubble](singularity2050.com/2010/01/the-misandry-bubble) - The Misandry Bubble (posted in 2010)<br>
+- [resobscura.blogspot.com](resobscura.blogspot.com) - Catalog of obscure things.<br>
+- [lobste.rs](lobste.rs) - Lobsters is a computing-focused community centered around link aggregation and discussion.<br>
+- [jezzamon.com/fourier/index](jezzamon.com/fourier/index) - Fourier Transforms<br>
+- [calresco.org](calresco.org) - The Complexity & Artificial Life Research Concept (90s complexity stuff)<br>
+- [pespmc1.vub.ac.be](pespmc1.vub.ac.be) - Principia Cybernetica Web (90s system theory stuff)<br>
+- [certifiedsoftness.com](certifiedsoftness.com) - Certified Softness Measurement<br>
+- [daggermag.com](daggermag.com) - Dagger Magazine<br>
+- [progopedia.com](progopedia.com) - Progopedia<br>
+- [tilde.club](tilde.club) - tilde club<br>
+- [soda.privatevoid.net/num/lists/web](soda.privatevoid.net/num/lists/web) - a cool link list<br>
+- [vidarholen.net/contents/wordcount](vidarholen.net/contents/wordcount) - counts and graphs various kinds f wods found within the source of the linux kernel<br>
+- [lolwut.neocities.org](lolwut.neocities.org) - oldschool anon's blog<br>
+- [deceptionisland.aq](deceptionisland.aq) - an island with an active volcano in the middle that doesn't look like it has one<br>
+- [n-gate.com](n-gate.com) - webshit weekly of "hacker" "news"<br>
+- [beneathvt.com](beneathvt.com) - virginia tech's steam tunnels<br>
+- [tools.ietf.org/html/rfc1855](tools.ietf.org/html/rfc1855) - a set of guidelines made in 1995 on how to behave in a conversation on the internet<br>
+- [int10h.org/oldschool-pc-fonts](int10h.org/oldschool-pc-fonts) - old PC fonts<br>
+- [geocities.restorativland.org](geocities.restorativland.org) - the gallery of geocities sites<br>
+- [stumblingon.com](stumblingon.com) - StumblingOn shows you a random webpage whenever you click the STUMBLE button.<br>
+- [web.archive.org/web/20170823090710/http://www.roten.com/library/culture/banned-cartoons](web.archive.org/web/20170823090710/http://www.roten.com/library/culture/banned-cartoons) - Banned Cartoons<br>
+- [web.archive.org/web/20170829074032/rotten.com/library](web.archive.org/web/20170829074032/rotten.com/library) - The Rotten Library (archived)<br>
+- [classreal.com/shorts](classreal.com/shorts) - list of shorts and movies one would call a "mindfuck"<br>
+- [zoomquilt.org](zoomquilt.org) - infinitely zooming painting<br>
+- [zoomquilt2.com](zoomquilt2.com) - another infinite painting<br>
+- [wordseye.com](wordseye.com) - 1000 words is a picture<br>
+- [kaggle.com/datasets](kaggle.com/datasets) - Open datasets of projects<br>
+- [newtotse.com/oldtotse](newtotse.com/oldtotse) - the Temple of the Screaming Electron<br>
+- [bamsoftware.com/hacks](bamsoftware.com/hacks) - some interesting projects<br>
+- [eurocanadian.ca/2018/04/the-myth-of-homosexuality-in-ancient-greece](eurocanadian.ca/2018/04/the-myth-of-homosexuality-in-ancient-greece) - Greeks weren't always bent<br>
+- [orteil.dashnet.org](orteil.dashnet.org) - Some cool stuff made from javascript<br>
+- [orteil.01xz.net/wiki/Main_Page](orteil.01xz.net/wiki/Main_Page) - HDLBits is a collection of small circuit design exercises for practicing digital hardware design(HDL).<br>
+- [sel4.systems/](sel4.systems/) - The seL4® Microkernel<br>
+- [ipfs.io/ipfs/QmSxqrrwUc5hQbyEtMSeF8FKfsWDuvcyUdFEeHXtjxhQgL](ipfs.io/ipfs/QmSxqrrwUc5hQbyEtMSeF8FKfsWDuvcyUdFEeHXtjxhQgL) - Total Hardware 1999<br>
+- [cia.gov/library/readingroom/collection/stargate](cia.gov/library/readingroom/collection/stargate) - CIA declassified Stargate program files, reads like real life SCP at times<br>
+- [michaelbach.de/ot](michaelbach.de/ot) - 142 optical illusions<br>
+- [pespmc1.vub.ac.be/MEMES](pespmc1.vub.ac.be/MEMES) - Memetics<br>
+- [angelfire.com/oh2/peterr/links/links](angelfire.com/oh2/peterr/links/links) - Some old weird angelfire link list<br>
+- [joshworth.com/dev/pixelspace/pixelspace_solarsystem](joshworth.com/dev/pixelspace/pixelspace_solarsystem) - The solar system with accurate spacing if the moon were only one pixel<br>
+- [binfalse.de/2016/02/08/create-an-unscanable-letter](binfalse.de/2016/02/08/create-an-unscanable-letter) - Create an unscannable letter<br>
+- [xsrus.com/writing/explain/onlyfans](xsrus.com/writing/explain/onlyfans) - Explaining OnlyFans<br>
+- [larrysanger.org/2020/05/wikipedia-is-badly-biased](larrysanger.org/2020/05/wikipedia-is-badly-biased) - How wikipedia is biased<br>
+- [furaba-animeseichi.blog.jp](furaba-animeseichi.blog.jp) - Real life locations compared to same scenes found in anime<br>
+- [thetruesize.com](thetruesize.com) - the true size of countries<br>
+- [spacehey.com](spacehey.com) - is a myspace clone that's fully functional!<br>
+- [Useful](Useful) sites:<br>
+- [weboas.is](weboas.is) - A home page replacement with bookmarks, chat, radio, wallpapers, too much in it to easily describe.<br>
+- [webgradients.com](webgradients.com) - Web gradients.<br>
+- [openproxy.space/list](openproxy.space/list) - good source for proxies.<br>
+- [deepl.com/en/translator](deepl.com/en/translator) - A translator better than Google Translate.<br>
+- [waifu2x.udp.jp](waifu2x.udp.jp) - A site to scale images without the loss of quality and remove jpeg artifacts.<br>
+- [lagom.nl/lcd-test/clock_phase](lagom.nl/lcd-test/clock_phase) - Misc tests to check if your monitor sucks or not.<br>
+- [filebin.net](filebin.net) - an alright anonymous file host, but it's been really fucking slow lately and it tends to get full very quickly.<br>
+- [gofile.io](gofile.io) - Another anonymous file host.<br>
+- [detexify.kirelabs.org/classify](detexify.kirelabs.org/classify) - Symbol finder for LaTeX.<br>
+- [piracy.now.sh](piracy.now.sh) - A great collection of piracy related links.<br>
+- [github.com/Igglybuff/awesome-piracy/blob/master/readme.md](github.com/Igglybuff/awesome-piracy/blob/master/readme.md) - More very useful links with a focus on piracy.<br>
+- [cssauthor.com](cssauthor.com) - Templates and such.<br>
+- [forum.mobilism.org/index](forum.mobilism.org/index) - Books, android/iOS apps and more.<br>
+- [v5.nomie.app](v5.nomie.app) - Life tracker but private.<br>
+- [sleepyti.me](sleepyti.me) - Bed time calculator.<br>
+- [dmca.gripe](dmca.gripe) - File sharing site<br>
+- [zz.ht](zz.ht) - File sharing site<br>
+- [portablefreeware.com](portablefreeware.com) - Portable freeware<br>
+- [gpldl.com](gpldl.com) - Free premium wordpress stuff<br>
+- [osintframework.com](osintframework.com) - OSINT framework focused on gathering information from free tools or resources.<br>
+- [github.com/awesome-selfhosted/awesome-selfhosted](github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web apps which can be self hosted<br>
+- [github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md](github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md) - pentesting resources.<br>
+- [wq.apnic.net/static/search](wq.apnic.net/static/search) - Jim Browning's recommendation for lookups<br>
+- [invidious.snopyta.org](invidious.snopyta.org) or github.com/iv-org/invidious is a front-end for YouTube.<br>
+- [cq.cx/ladder.pl](cq.cx/ladder.pl) - A compiler that starts with a ladder diagram and generates native PIC16 or AVR code.<br>
+- [eaglepoll.ga](eaglepoll.ga) - polling website like strawpoll that will work without javascript (given cloudflare doesn't think you're a botnet)<br>
+- [nirsoft.net](nirsoft.net) - NirSoft web site provides a unique collection of small and useful freeware utilities.<br>
+- [pinetools.com](pinetools.com) - A lot of useful tools, such as timers, calculators, randomizers, etc<br>
+- [teddit.net](teddit.net) - Very minimal Reddit front end site<br>
+- [nitter.net](nitter.net) - Very minimal Twitter front end site<br>
+- [trendsmap.com](trendsmap.com) - Twitter trends on map<br>
+- [bibliogram.art](bibliogram.art) - A better way to view IG profiles.<br>
+- [dot.tk/en/index](dot.tk/en/index) - Free domains<br>
+- [bios-pw.org](bios-pw.org) - BIOS Password Recovery for Laptops<br>
+- [w3i.org](w3i.org) - old style but very well organised link list<br>
+- [ianli.github.io/so-you-need-a-typeface](ianli.github.io/so-you-need-a-typeface) - A place to find a typeface<br>
+- [smmry.com](smmry.com) - Makes tl;dr with a very simple algo. Works best on news than technical texts.<br>
+- [catalog.neet.tv/harlequin](catalog.neet.tv/harlequin) - thread wordcloud<br>
+- [certbot.eff.org](certbot.eff.org) - Free SSL certificates<br>
+- [catbox.moe](catbox.moe) - a cute file uploading site<br>
+- [palettegenerator.com](palettegenerator.com) - Palette Generator<br>
+- [lolilabs.xyz](lolilabs.xyz) - url shortner<br>
+- [xdcc2.jav.pw](xdcc2.jav.pw) - XDCC packlist<br>
+- [gchq.github.io/CyberChef](gchq.github.io/CyberChef) - Tool for encoding/decoding/hashing and much more.<br>
+- [github.com/fonic/ipfilter](github.com/fonic/ipfilter) - IP Filter Updater & Generator<br>
+- [blocklistproject.github.io/Lists](blocklistproject.github.io/Lists) - Filter lists for adblock etc.<br>
+- [fakereceipt.us/sales_receipt](fakereceipt.us/sales_receipt) - Make your own fake reciepts<br>
+- [filterlists.com](filterlists.com) - Filter lists for adblock etc.<br>
+- [unitednuclear.com](unitednuclear.com) - US shop for nuclear and chemical supplies. They sell uranium ore<br>
+- [html5up.net](html5up.net) - Great website templates in HTML5 & CSS3<br>
+- [spidr.today](spidr.today) - A good news aggregator<br>
+- [10minutemail.com](10minutemail.com) - Temporary email addresses<br>
+- [temp-mail.org/en](temp-mail.org/en) - free temp email w/ constant stream of new domains<br>
+- [cock.li](cock.li) - The best secondary email provider.<br>
+- [blackhost.xyz](blackhost.xyz) - tor email provider<br>
+- [alternativeto.net](alternativeto.net) - Site where you can write the name of the software and get alternatives for it<br>
+- [forum.xda-developers.com](forum.xda-developers.com) - The place to go for all of your Android needs. (roms, mods, tweaks etc.)<br>
+- [filehostlist.miraheze.org/wiki/Free_Premium_Leeches](filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - leech wiki<br>
+- [terminal.sexy](terminal.sexy) - Terminal color scheme designer<br>
+- [unanimated.github.io/guides](unanimated.github.io/guides) - Fansub guides<br>
+## Science / math sites:<br>
+- [worldwidescience.org](worldwidescience.org)<br>
+- [livemeteors.com](livemeteors.com) - Listen live to VHF signals bouncing off of ionised trails of meteors<br>
+- [ddeville.com/rockets](ddeville.com/rockets) - Derek Deville's Amateur Rocket Adventures<br>
+- [catalogueoflife.org/col](catalogueoflife.org/col) - The most complete authoritative list of the world's species<br>
+- [textbookofbacteriology.net/index](textbookofbacteriology.net/index) - Online textbook of bacteriology<br>
+- [earthquake.usgs.gov/earthquakes/map](earthquake.usgs.gov/earthquakes/map) - Latest earthquakes<br>
+- [projectrho.com/public_html/rocket](projectrho.com/public_html/rocket) - Helping sci-fi writers get their facts right.<br>
+- [x6ud.github.io/#](x6ud.github.io/#) - Manipulate a 3D model of an animal skull and get reference photos of animals facing same direction as mode<br>
+- [rosettacode.org](rosettacode.org) - Well-known problems and algorithms in several languages<br>
+- [nayuki.io](nayuki.io) - programming/math<br>
+- [betterexplained.com](betterexplained.com) - Clear, intuitive lessons about imaginary numbers, exponents, and more.<br>
+- [darksitefinder.com/maps/world](darksitefinder.com/maps/world) - Map of light pollution, for stargazers.<br>
+- [windy.com](windy.com) - See the wind<br>
+- [aladin.u-strasbg.fr/AladinLite](aladin.u-strasbg.fr/AladinLite) - Displays an open-source "panorama" of nasa's pictures of space.<br>
+- [mathwithbaddrawings.com](mathwithbaddrawings.com) - Math with bad drawings<br>
+- [cut-the-knot.org/manifesto/index](cut-the-knot.org/manifesto/index) - Mathematics<br>
+- [en.wikipedia.org/wiki/Lists_of_astronomical_objects](en.wikipedia.org/wiki/Lists_of_astronomical_objects) - Lists of astronomical objects<br>
+- [wolframalpha.com](wolframalpha.com) - Not only for math.<br>
+- [websdr.org](websdr.org) - Receivers of Frequencies in various locations here, you can listen to airplanes, to police radios, to various satellites.<br>
+- [rammb-slider.cira.colostate.edu](rammb-slider.cira.colostate.edu) - Live weather satellite viewer from GOES-16 & 17, Meteosat 8 & 11, Himawari-8 and JPSS.<br>
+- [wttr.in](wttr.in) - terminal weather<br>
+- [websdr.ewi.utwente.nl:8901](websdr.ewi.utwente.nl:8901) - Listen and control a short-wave receiver located at the amateur radio club ETGD at the University of Twente.<br>
+- [falstad.com/mathphysics](falstad.com/mathphysics) - Several applets for math, physics, and EE<br>
+- [angio.net/pi](angio.net/pi) - You enter a number and get a place in PI where it occurs<br>
+- [numberempire.com](numberempire.com) - Collection of math tools<br>
+- [divisorplot.com](divisorplot.com) - Explore composite number patterns<br>
+- [symbolab.com](symbolab.com) - Wolframalpha with less functionalities but allows you to check at least some steps for free<br>
+- [integral-calculator.com](integral-calculator.com) - Calculate integrals online with steps and graphing!<br>
+- [derivative-calculator.net](derivative-calculator.net) - Just to calculate integrals and derrivatives but those sites allow you to check ALL the steps for FREE<br>
+## Tech sites:<br>
+- [gtfobins.github.io](gtfobins.github.io) - GTFOBins is a curated list of Unix binaries that can used to bypass local security restrictions in misconfigured systems.<br>
+- [henrypp.org](henrypp.org) - Home of the great SimpleWall open source firewall for Windows, and more<br>
+- [codesandbox.io/s](codesandbox.io/s) - An instantly ready, full-featured online IDE for web development on any device with a browser.<br>
+- [untools.co](untools.co) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.<br>
+- [g.sicp.me](g.sicp.me) - Gentoomen Community Pages<br>
+- [wiki.installgentoo.com/wiki/Main_Page](wiki.installgentoo.com/wiki/Main_Page) - Install Gentoo<br>
+- [gerigeri.uw.hu/DawnOS/index](gerigeri.uw.hu/DawnOS/index) - DAWN operating system (SUBLEQ arch)<br>
+- [solarbotics.net/library/circuits/bot](solarbotics.net/library/circuits/bot) - BEAMbot circuits and bestiary<br>
+- [solarbotics.net/library](solarbotics.net/library) - BEAMbot overview, links and bestiary w/pics<br>
+- [hackaday.com](hackaday.com) - Maker and hacker content<br>
+- [eldritchdata.neocities.org](eldritchdata.neocities.org) - A neat (as in tidy) website about Linux and stuff<br>
+- [sysinfo.io](sysinfo.io) - Linux/security blog<br>
+- [elm-chan.org/cc_e](elm-chan.org/cc_e) - a bunch of technical notes about a bunch of hardware and software things.<br>
+- [github.com/GitSquared/edex-ui](github.com/GitSquared/edex-ui) - a fullscreen, cross-platform terminal emulator and system monitor with a sci-fi aesthetic<br>
+- [lightcommands.com](lightcommands.com) - neat hardware hack explained.<br>
+- [stallman.org](stallman.org) - Scholars are yet to determine the meaning of this website.<br>
+- [rx.linkfanel.net](rx.linkfanel.net) - A map applied to a shit ton of user run HF receivers.<br>
+- [catb.org/~esr/halloween/index](catb.org/~esr/halloween/index) - The Halloween Documents (leaked mircosoft memorandum)<br>
+- [vetusware.com](vetusware.com) - Lotsa old abandonware.<br>
+- [fabiensanglard.net](fabiensanglard.net) - This guy has an interesting blog about computer graphics<br>
+- [phrack.org](phrack.org) - Underground hacker ezine running since 1985, cybersecurity and (old school) hacker culture<br>
+- [nojs.club](nojs.club) - Websites with no js.<br>
+- [urbit.org](urbit.org) - Urbit is a clean-slate OS and network for the 21st century.<br>
+- [shadertoy.com](shadertoy.com) - browse webgl shaders and create your own<br>
+- [caniuse.com](caniuse.com) - web feature compatibility<br>
+- [teamblind.com](teamblind.com) - Kind of like reddit but focused on careers, the tech industry, software engineering, finance, etc.<br>
+- [wiki.c2.com](wiki.c2.com) - The Original Wiki. Focuses way more on tech and programming than the general purpose Wikipedia.<br>
+- [ghacks.net](ghacks.net) - A tech blog that reviews software, apps and offers tips and tricks about Windows, Android, and other systems.<br>
+- [onehack.us](onehack.us) - Piracy, Exploits and stuff. (Hi Sam)<br>
+- [hw-museum.cz](hw-museum.cz) - Hardware Museum<br>
+- [helloworldcollection.de](helloworldcollection.de) - The Hello World Collection<br>
+- [1mb.club](1mb.club) - sites less than 1mb<br>
+- [404pagefound.com](404pagefound.com) - Active vintage websites<br>
+- [quantumplayground.net/#/playground/5643440998055936](quantumplayground.net/#/playground/5643440998055936) - Quantum computing programming concepts<br>
+- [github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md](github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md) - List of good resources.<br>
+- [commandlinefu.com/commands/browse](commandlinefu.com/commands/browse) - A place to record those command-line gems that you return to again and again.<br>
+- [sevenforums.com](sevenforums.com) - Windows 7 forum<br>
+- [marknelson.us](marknelson.us) - Mark Nelson's website<br>
+- [cbloomrants.blogspot.com](cbloomrants.blogspot.com) - cbloom rants (Charles Bloom's blog)<br>
+- [open-std.org](open-std.org) - Open Standards<br>
+- [wall.org/~larry](wall.org/~larry) - the page of Larry Wall, the guy behind the Perl programming language<br>
+- [wtfpl.net](wtfpl.net) - do what the fuck you want public license<br>
+- [searx.space](searx.space) - Online and offline Searx instances<br>
+- [awesomekling.github.io](awesomekling.github.io) - the blog of Andreas Kling, the dude behind SerenityOS<br>
+- [exploratorium.edu/origins/cern/index](exploratorium.edu/origins/cern/index) - Old CERN website, i think?<br>
+- [gemini.circumlunar.space](gemini.circumlunar.space) - Home of the http mirror of the gemini project for neat small sites with limited features.<br>
+- [sed.sourceforge.net/sed1line.txt](sed.sourceforge.net/sed1line.txt) - Useful one-line scripts for sed<br>
+- [kkovacs.eu/cool-but-obscure-unix-tools](kkovacs.eu/cool-but-obscure-unix-tools) - A little collection of cool unix terminal/console/curses tools<br>
+- [cyber.dabamos.de/unix/x11](cyber.dabamos.de/unix/x11) - A small collection of tools for the X Window System.<br>
+- [lolbas-project.github.io](lolbas-project.github.io) - Windows binaries, scripts, libraries<br>
+- [dcode.fr/en](dcode.fr/en) - Math, cryptography, IT, game theory and other tools<br>
+- [%70%43%2d%68%45%6c%50%2e%6f%52%67/obscure](%70%43%2d%68%45%6c%50%2e%6f%52%67/obscure) - obfuscate urls<br>
+## Privacy / Security related sites:<br>
+- [restoreprivacy.com](restoreprivacy.com) - Privacy blog/website<br>
+- [prism-break.org/en](prism-break.org/en) - Anti-NSA and tracking site w/tools<br>
+- [privacytools.io](privacytools.io) - Privacy and security list/site<br>
+- [eff.org](eff.org) - The leading nonprofit defending digital privacy, free speech, and innovation<br>
+- [digitalfreedom.neocities.org](digitalfreedom.neocities.org) - How the internet is being used to steal your privacy<br>
+- [disroot.org/en](disroot.org/en) - Another collection of privacy-respecting online services such as email, pastebin, and cloud storage.<br>
+- [snopyta.org](snopyta.org) - Collection of FOSS and privacy-respecting online services, such as DNS, Searx, Invidious, etc.<br>
+- [retroshare.cc](retroshare.cc) - Retroshare is a free and open-source peer-to-peer communication and file sharing app built on GNU Privacy Guard.<br>
+- [iknowwhatyoudownload.com/en/peer](iknowwhatyoudownload.com/en/peer) - Check to see what torrents associated with your public IP<br>
+- [google.com/webmasters/tools/removals](google.com/webmasters/tools/removals) - Google URL removal tool (useful for offline sites and cleaning tracks)<br>
+- [backgroundchecks.org/justdeleteme](backgroundchecks.org/justdeleteme) - List of sites with logins and how easy it is to delete your account<br>
+- [0xacab.org/jvoisin/mat2](0xacab.org/jvoisin/mat2) - Metadata removal tool<br>
+- [freenetproject.org](freenetproject.org) - Freenet Network<br>
+- [geti2p.net/en](geti2p.net/en) - I2P network<br>
+- [qtox.github.io](qtox.github.io) - qTox (might be a meme) anonymous IM<br>
+- [github.com/ricochet-im/Ricochet](github.com/ricochet-im/Ricochet) - Ricochet IM anonymous messenger<br>
+- [tox.chat](tox.chat) - Tox protocol<br>
+- [torproject.org](torproject.org) - TOR anonymous network/router<br>
+- [zeronet.io](zeronet.io) - ZeroNet decentralized network (not anonymous, use with TOR or VPN)<br>
+- [spyware.neocities.org](spyware.neocities.org) - Classification of spyware programs, so that users can be more aware that they are installing spyware<br>
+- [safetydetectives.com/best-vpns](safetydetectives.com/best-vpns) - A pretty comprehensive VPN Comparison<br>
+- [security.org/how-secure-is-my-password](security.org/how-secure-is-my-password) - A website that calculates how long it would take for your password to be cracked<br>
+- [defensivecomputingchecklist.com](defensivecomputingchecklist.com) - great site for good security habits.<br>
+- [curtiswallen.com/pgp](curtiswallen.com/pgp) - Good PGP guide<br>
+- [1.1.1.1](1.1.1.1) - A better DNS than your ISP<br>
+## Learning sites:<br>
+- [javascript.info](javascript.info) - The Modern JavaScript Tutorial<br>
+- [github.com/jwasham/coding-interview-university](github.com/jwasham/coding-interview-university) - A step by step guide to becoming a software engineer<br>
+- [root-me.org/?lang=en](root-me.org/?lang=en) website to train hacking skillz<br>
+- [animelon.com](animelon.com) - Learn moonrunes while you watch your Chinese cartoons<br>
+- [deadlockempire.github.io](deadlockempire.github.io) - fun game for the cooders among you who want to learn a bit about multithreading.<br>
+- [overthewire.org/wargames](overthewire.org/wargames) - Learn and practice security concepts in the form of fun-filled games.<br>
+- [xahlee.info](xahlee.info) - Math and Programing, tutorials and essays. There are 3.7 thousand articles.<br>
+- [vim-adventures.com](vim-adventures.com) - Learn VIM while playing a game<br>
+- [choosealicense.com](choosealicense.com) - A guide and, if you dig a bit, a comprehensive list of open source licenses for software.<br>
+- [ncase.me](ncase.me) - Cool educational browser games.<br>
+- [newarcitea.neocities.org](newarcitea.neocities.org) - A guide to self-improvement.<br>
+- [projecteuler.net](projecteuler.net) - actually fun and challenging programming puzzles<br>
+- [wanikani.com](wanikani.com) - Good tool to grind and learn kanji<br>
+- [learnxinyminutes.com](learnxinyminutes.com) - Language resources for programming<br>
+- [nandgame.com](nandgame.com) - learning game about gates and components.<br>
+- [usesthis.com](usesthis.com) - A collection of nerdy interviews asking people from all walks of life what they use to get the job done.<br>
+- [coderprog.com](coderprog.com) - Programming books, courses.<br>
+- [jlcollinsnh.com/manifesto](jlcollinsnh.com/manifesto) - Best financial advice ever: (actually)<br>
+- [teachyourselfcs.com](teachyourselfcs.com) - teach yourself computer science<br>
+## Imageeditors, generators etc. (editors, generators etc.) sites:<br>
+- [photopea.com](photopea.com) - Basically photoshop but online.<br>
+- [makewordart.com](makewordart.com) - Classic Wordart generator.<br>
+- [jspaint.app](jspaint.app) - Classic paint with some intresting features added.<br>
+- [snorpey.github.io/jpg-glitch](snorpey.github.io/jpg-glitch) - Glitch your images.<br>
+- [app.monopro.org/pixel/?lang=en](app.monopro.org/pixel/?lang=en) - Pixelart Converter<br>
+- [sh00n3m1gur.000webhostapp.com](sh00n3m1gur.000webhostapp.com) - Random images.<br>
+- [photomosh.com](photomosh.com) - Glitch your images some more.<br>
+- [thisxdoesnotexist.com](thisxdoesnotexist.com) - A collection of things that don't exist.<br>
+- [nsfwai.com](nsfwai.com) - Basically 'this porn does not exist' NSFW.<br>
+- [dreamscopeapp.com](dreamscopeapp.com) - Image effect generator, can be kinda slow.<br>
+- [trimage.org](trimage.org) - Tool to optimize images.<br>
+- [postimages.org](postimages.org) - Just a good site to upload images.<br>
+- [cockos.com/licecap](cockos.com/licecap) - Tool to capture gifs.<br>
+- [freedownloadae.com](freedownloadae.com) - Graphic assets<br>
+- [wigflip.com/roflbot](wigflip.com/roflbot) - roflbot is for adding text and captions to a picture, a la I Can Has Cheezburger.<br>
+- [ezgif.com](ezgif.com) - gif editor and maker, super useful.<br>
+- [drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE](drive.google.com/drive/folders/0B_VmbVyD4eT3N1VUbGN4Wjd5OVE) - Old Gdrive with anime vectors<br>
+- [https://www10.flamingtext.com](https://www10.flamingtext.com) - Free logo Design & Name Generator<br>
+- [remove.bg](remove.bg) - Automagically remove backgrounds from images. Not 100% but shockingly good<br>
+- [waifu.lofiu.com](waifu.lofiu.com) - Convert your selfie to waifu<br>
+- [imgops.com](imgops.com) - Image tools<br>
+- [nik.bot.nu](nik.bot.nu) - Imageboard scraper, great for wallpapers<br>
+- [embeddedsw.net/OpenPuff_Steganography_Home](embeddedsw.net/OpenPuff_Steganography_Home) - OpenPuff Steganography software, hide messages in images<br>
+- [babelia.libraryofbabel.info](babelia.libraryofbabel.info) - Babel image archives<br>
+- [petalica-paint.pixiv.dev/index_en](petalica-paint.pixiv.dev/index_en) - Paints-chainer, apparently part of pixiv now<br>
+- [scanlate.io](scanlate.io) - fast MTL scanlation<br>
+- [fmwconcepts.com/imagemagick](fmwconcepts.com/imagemagick) - Imagemagick scripts<br>
+- [pixlr.com](pixlr.com) - Kinda like PS online<br>
+- [befunky.com](befunky.com) - Easy to use online image editors<br>
+- [fotoflexer.com](fotoflexer.com) - Photo editor<br>
+## Aesthetic / cool sites:<br>
+- [windows93.net](windows93.net) - A fun OS made in JS with some actually fun stuff to do.<br>
+- [initiate.space](initiate.space) - Aesthetic site which wants your soul and hosts an imageboard, posting it seems to attract its users.<br>
+- [angusnicneven.com](angusnicneven.com) - I don't even.<br>
+- [fauux.neocities.org](fauux.neocities.org) - I don't even.<br>
+- [systemspace.network](systemspace.network) - I don't even.<br>
+- [cameronsworld.net](cameronsworld.net) - A love letter to the Internet of old.<br>
+- [acko.net](acko.net) - Asthetic and generally cool af.<br>
+- [poolside.fm](poolside.fm) - like if an operating system was designed by a woman in her 40s<br>
+- [akham.netlify.app](akham.netlify.app) - a simple home page that supports keyboard shortcuts made by Anon<br>
+- [peelopaalu.neocities.org](peelopaalu.neocities.org) - A collection of sites lovingly put together by Anon.<br>
+- [pea.moe](pea.moe) - Some guy's site with a terminal and Kyouko.<br>
+- [tsumugi.online](tsumugi.online) - Another guy's site with a Win 98 theme and Mugi.<br>
+- [kemono.party](kemono.party) - A paywall archive made by a tripfag<br>
+- [nipponcolors.com](nipponcolors.com) - a nice css endeavor<br>
+- [copy.sh/v86](copy.sh/v86) - x86 machine images emulated with webassembly<br>
+- [2bit.neocities.org](2bit.neocities.org) - Cool site about 2bit graphics<br>
+- [exo.pet](exo.pet) - Retro/weird site about neopets and alt versions of that<br>
+- [patrickwoodroffe-world.com/archive](patrickwoodroffe-world.com/archive) - Oldskool webpage. Full of soul.<br>
+- [mebious.neocities.org](mebious.neocities.org) - Cool Lain worshipper site.<br>
+- [digilord.neocities.org](digilord.neocities.org) - A better version of this site, under construction.<br>
+- [therestartpage.com](therestartpage.com) - nostalgic startup and shutdown from old OSes<br>
+- [minitokyo3d.com](minitokyo3d.com) - a very cool visualization of real-time nippon transportation.<br>
+- [town.neocities.org](town.neocities.org) - just a little walk through a town at night, really neat use of JSS.<br>
+- [simone.computer/#/webdesktops](simone.computer/#/webdesktops) - collection of desktop webapps<br>
+- [computernewb.com/collab-vm](computernewb.com/collab-vm) - Control Collaborative Virtual Machines!<br>
+## Book sites:<br>
+- [libgen.rs](libgen.rs) - It's a massive book, scientific journal and all their articles, comics etc. site.<br>
+- [sci-hub.se](sci-hub.se) - Like above with a more pure focus on scientific research papers.<br>
+- [b-ok.global](b-ok.global) - E-book library.<br>
+- [gen.lib.rus.ec](gen.lib.rus.ec) - Get that book for free<br>
+- [pdfdrive.com](pdfdrive.com) - Get that book for free<br>
+- [1lib.eu](1lib.eu) - Get that book for free<br>
+- [standardebooks.org](standardebooks.org) - This is like gutenberg but the ebooks have been formatted nicely and proofed for typos.<br>
+- [forgottenbooks.com/en](forgottenbooks.com/en) - Website of a London-based book publisher specialising in restoring old books<br>
+- [libraryofbabel.info](libraryofbabel.info) - Every single possible book that could be written, in any language using the latin alphabet.<br>
+- [gutenberg.org](gutenberg.org) - Largers public domain book library<br>
+- [deadseascrolls.org.il/?locale=en_US](deadseascrolls.org.il/?locale=en_US) - Dead Sea Scrolls digital library<br>
+- [alwaysjudgeabookbyitscover.com](alwaysjudgeabookbyitscover.com) - weird book covers<br>
+- [lampbylit.com](lampbylit.com) - Zine by some anon in /lit/, 2 editions so far.<br>
+- [survivorbb.rapeutation.com](survivorbb.rapeutation.com) - Big archive of books/documents hosted on a phpBB forum<br>
+- [risingtidefoundation.net](risingtidefoundation.net) - Digital Library of Alexandria<br>
+- [lainzine.org](lainzine.org) - Lainzine<br>
+- [mangadex.org](mangadex.org) - reading manga online (directly from scanlators)<br>
+- [mangasee123.com](mangasee123.com) - reading manga online (official releases)<br>
+- [readcomiconline.to](readcomiconline.to) - reading comics online<br>
+- [getcomics.info](getcomics.info) - downloading comics<br>
+- [Calibre](Calibre) Libraries: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20<br>
+## Humour / fun / Random sites:<br>
+- [github.com/iTODDLERS-BTFO/iToddlers-BTFO](github.com/iTODDLERS-BTFO/iToddlers-BTFO) - iToddlers btfo<br>
+- [moanmyip.com](moanmyip.com) - Moans your IP<br>
+- [play.aidungeon.io](play.aidungeon.io) - Very cool text adventure game that lets you act out very odd scenarios.<br>
+- [alexnisnevich.github.io/untrusted](alexnisnevich.github.io/untrusted) - Some kind of game that people seem to like.<br>
+- [beesbeesbees.com](beesbeesbees.com) - bees.<br>
+- [lingscars.com](lingscars.com) - If you ever need to rent a car in the UK from a Chinese lady, do it here.<br>
+- [thebest404pageeverredux.com](thebest404pageeverredux.com) - Random flash videos.<br>
+- [autists.net](autists.net) - Link to a collection of autists.<br>
+- [burymewithmymoney.com](burymewithmymoney.com) - single serving site.<br>
+- [loli.dance](loli.dance) - single serving loli dance site.<br>
+- [instituteforspacepolitics.org](instituteforspacepolitics.org) - single serving site.<br>
+- [openings.moe](openings.moe) - Anime openings.<br>
+- [yyyyyyy.info](yyyyyyy.info) - A site with no discernible purpose but randum XD<br>
+- [sod.jodi.org](sod.jodi.org) - A site with no discernible purpose but randum XD<br>
+- [geogoo.net](geogoo.net) - A site with no discernible purpose but randum XD<br>
+- [g33con.com](g33con.com) - A site with no discernible purpose but randum XD<br>
+- [sanger.dk](sanger.dk) - Flash doggo licking your monitor<br>
+- [z0r.de](z0r.de) - Random flash videos<br>
+- [vore.is-best.net](vore.is-best.net) - A site Anon made with no discernible purpose<br>
+- [motherfuckingwebsite.com](motherfuckingwebsite.com) - A basic but rude website. What you see is what you get.<br>
+- [abbottsimulator.com](abbottsimulator.com) - Mini web game where you play as former Australian PM Tony Abbott and stop the boats from reaching the country.<br>
+- [zombo.com](zombo.com) - Just a useless website for fun.<br>
+- [theuselessweb.com](theuselessweb.com) - Site that directs to other random websites/pages.<br>
+- [gnupluslinux.com](gnupluslinux.com) - Plays a video about why GNU/Linux is good. Source is 'Mawaru Penguindrum'. Also has a Satania image directory.<br>
+- [wanwan-html5.moe](wanwan-html5.moe) - 'Wan~' meme but animated and with multiple characters<br>
+- [kokoro.pyonpyon.moe](kokoro.pyonpyon.moe) - Plays the S1 intro of GochiUsa/GochiUzbekistan<br>
+- [w.jodi.org](w.jodi.org) - I don't even<br>
+- [computerhistory.org](computerhistory.org) - Computer history<br>
+- [nogf.club](nogf.club) - tfw no gf<br>
+- [blm-egis.maps.arcgis.com/apps/webappviewer/index.html?id=6f0da4c7931440a8a80bfe20eddd7550](blm-egis.maps.arcgis.com/apps/webappviewer/index.html?id=6f0da4c7931440a8a80bfe20eddd7550) - BLM maps<br>
+- [howmanypeopleareinspacerightnow.com](howmanypeopleareinspacerightnow.com) - Tells you how many people are in space right now.<br>
+- [f0ck.me](f0ck.me) - Appears to collect images linked in some IRC channel.<br>
+- [tanami.org](tanami.org) - Anon's own website<br>
+- [tanami.org/archive](tanami.org/archive) - It's secret archive<br>
+- [userinyerface.com](userinyerface.com) - A worst-practice UI experiment.<br>
+- [pinch.com](pinch.com) - A man with a good domain refuses to budge.<br>
+- [biggulpsupreme.neocities.org](biggulpsupreme.neocities.org) - a masterful shitpost site.<br>
+- [makefrontendshitagain.party](makefrontendshitagain.party) - make frontend shit again<br>
+- [gogetspoiled.com](gogetspoiled.com) - site which spoils movies<br>
+- [gotoquiz.com/what_azumanga_daioh_character_are_you_1](gotoquiz.com/what_azumanga_daioh_character_are_you_1) - which azumanga daioh character are you?<br>
+- [rsdb.org/full](rsdb.org/full) - the racial slur database<br>
+- [downloadmorerem.com](downloadmorerem.com) - A place to get more Rem<br>
+- [drivemeinsane.com](drivemeinsane.com) - This site allows you to use home automation to have fun at someone else's expense<br>
+- [rms.sexy](rms.sexy) - A slideshow of (sexy) RMS<br>
+- [mordorweather.illus.ru](mordorweather.illus.ru) - Weather of Mordor<br>
+- [thenicestplace.net](thenicestplace.net) - free hugs<br>
+- [satania.moe](satania.moe) - Why Satania is best waifu<br>
+- [showmetheimage.org](showmetheimage.org) - a website for viewing a daily image<br>
+- [angelfire.com/planet/tpirman1982](angelfire.com/planet/tpirman1982) - Angelfire street lighting gallery, all the streetlamps you ever wanted and more<br>
+- [iiada.serotoninphobia.info](iiada.serotoninphobia.info) - i cant describe<br>
+- [memeatlas.com](memeatlas.com) - Hosting Memes from Reddit and 4chan<br>
+- [cheapcsg.neocities.org](cheapcsg.neocities.org) - /csg/ ranomizer by some anon<br>
+- [nyan.cat](nyan.cat) - Several Nyan Cat song and animation variations<br>
+- [objection.lol](objection.lol) - Select your character and pose, submit your objection then surprise your friends with your irrefutable evidence!<br>
+- [boyter.org/2016/04/collection-orly-book-covers](boyter.org/2016/04/collection-orly-book-covers) - Site collecting o'reilly book covers parodies<br>
+- [dev.to/rly](dev.to/rly) - Site for generating o'reilly book covers parodies<br>
+- [thiswojakdoesnotexist.com](thiswojakdoesnotexist.com) - This wojack does not exist<br>
+- [crymyip.com](crymyip.com) - Cries your IP.<br>
+- [shoulditestprivatemethods.com](shoulditestprivatemethods.com) - If you're not sure if you should test private methods.<br>
+- [nyanpass.com](nyanpass.com) - にゃんぱすーをシェアできる全く新しい画期的なWEBサービス.<br>
+- [tylervigen.com/spurious-correlations](tylervigen.com/spurious-correlations) - Stuff that is correlated but has nothing to do with each other.<br>
+- [durgasoft.com](durgasoft.com) - Pajeet dev services<br>
+- [rjlpranks.com](rjlpranks.com) - "Old skool" computer pranks<br>
+- [nazi.moe](nazi.moe) - Basically exactly what you expect from the url.<br>
+- [norristology.com/flash](norristology.com/flash) - Old flash games, music etc. from 2006<br>
+- [lobba.miraheze.org/wiki/The_List](lobba.miraheze.org/wiki/The_List) - eternal loli wiki<br>
+- [staggeringbeauty.com](staggeringbeauty.com) - Psychedelic worm themed time waster.<br>
+- [github.com/laynH/Anime-Girls-Holding-Programming-Books](github.com/laynH/Anime-Girls-Holding-Programming-Books) - Anime girls holding programming books.<br>
+## Audio / music / sound sites:<br>
+- [touhou.kuukunen.net](touhou.kuukunen.net) - Weeb music<br>
+- [doujinstyle.com/?p=tlmc](doujinstyle.com/?p=tlmc) - Weeb music but in big collections you can download.<br>
+- [the.wubmachine.com](the.wubmachine.com) - This will remix any audio file you upload with sometimes pleasing results.<br>
+- [szynalski.com/tone-generator](szynalski.com/tone-generator) - Tone generator.<br>
+- [vo.codes](vo.codes) - Cool text to speech with lots of character voices<br>
+- [everynoise.com](everynoise.com) - Bottom line best site to find new music.<br>
+- [asoftmurmur.com](asoftmurmur.com) - Comfy noise generator.<br>
+- [fusion-world-30.blogspot.com](fusion-world-30.blogspot.com) - A blog with Chinese music.<br>
+- [texttospeech.ca](texttospeech.ca) - A great TTS site made with love by another /g/ Anon.<br>
+- [drdicksdubshack.com](drdicksdubshack.com) - Some kind of radio station, I think.<br>
+- [audioz.download](audioz.download) - Audio warez, courses, etc.<br>
+- [listenbox.app](listenbox.app) - Lets you listen to youtube links in the background on your phone<br>
+- [.iplusfree.org](.iplusfree.org) - Free iTunes Plus M4A<br>
+- [podbay.fm](podbay.fm) - Podcasts.<br>
+- [420.moe](420.moe) - Anime420girls with some songs and visualizers.<br>
+- [nodata.tv](nodata.tv) - music leaks<br>
+- [rave.dj](rave.dj) - Allows you to create mashups of youtube songs<br>
+- [melobytes.com/en](melobytes.com/en) - AI that does music from images and other stuff<br>
+- [findflac.com](findflac.com) - .flac music finder<br>
+- [vocaroo.com](vocaroo.com) - Vocaroo is a quick and easy way to share voice messages over the interwebs.<br>
+- [web.archive.org/web/20190518001139/http://soundboards.1apps.com/archiesounds](web.archive.org/web/20190518001139/http://soundboards.1apps.com/archiesounds) - ArchieLuxury soundboard<br>
+- [findsounds.com](findsounds.com) - Find the sound effects you need for your project<br>
+- [longmontpotioncastle.com](longmontpotioncastle.com) - Longmont Potion Castle's prank calls<br>
+- [illusionaryscore.web.fc2.com/score](illusionaryscore.web.fc2.com/score) - A compilation of Piano Scores of the Touhou Series.<br>
+- [gamebanana.com/projects/35179](gamebanana.com/projects/35179) - MIDI collection - Touhou Project<br>
+- [music.ishkur.com](music.ishkur.com) - Ishkur's Guide to Electronic Music.<br>
+- [acrcloud.com/identify-songs-music-recognition-online](acrcloud.com/identify-songs-music-recognition-online) - Upload a webm and get the title of the song playing<br>
+- [keygenmusic.tk](keygenmusic.tk) - Music from keygens.<br>
+- [aidn.jp/contents](aidn.jp/contents) - Weeb music minigames from the creator of nyan cat.<br>
+- [plaza.one](plaza.one) - vaporwave radio & a cool website.<br>
+- [mynoise.net](mynoise.net) - Creates beautiful noises to mask the noises you don’t want to hear<br>
+- [musicgenretree.org](musicgenretree.org) - Music genre evolution tree and interactive '1111 Essential Recordings of Music' chart made by a /mu/ poster<br>
+- [rabanetecomquiabo.blogspot.com](rabanetecomquiabo.blogspot.com) - Get classical music<br>
+- [gnaural.sourceforge.net](gnaural.sourceforge.net) - An opensource binaural-beat generator<br>
+- [packet.city](packet.city) - Loud website. Warning: loud<br>
+- [modarchive.org](modarchive.org) - Large archive of tracked music.<br>
+- [mirsoft.info](mirsoft.info) - Archive dedicated to tracked and midi music from games.<br>
+- [convert.ing-now.com/audio-spectrogram-creator](convert.ing-now.com/audio-spectrogram-creator) - lets you upload an mp3 file and creates a spectogram image from it<br>
+- [muri.se/misc/soundfx.html](muri.se/misc/soundfx.html) - Japanese sound effects and what they mean<br>
+- [15.ai](15.ai) - Deep-learning TTS (text-to-speech) tool for generating voices of various characters.<br>
+- [r-a-d.io](r-a-d.io) - /a/ radio<br>
+- [mp3quack.live](mp3quack.live) - mp3 downloads<br>
+- [mp3guild.com](mp3guild.com) - mp3 downloads<br>
+- [flacattack.net](flacattack.net) - flac downloads<br>
+- [24flac.net](24flac.net) - flac downloads<br>
+- [lossless-music.org](lossless-music.org) - flac downloads<br>
+- [radio.garden](radio.garden) - Radio station overlayed on earth.<br>
+## Coomer stuff:<br>
+- [tblop.com](tblop.com) - List of porn sites.<br>
+- [nijibox5.com/futabafiles/kobin/index](nijibox5.com/futabafiles/kobin/index) - Weeb chanstyle site with hentai.<br>
+- [asenheim.org](asenheim.org) - Coomer games, I think.<br>
+- [ぶっかけ板.net](ぶっかけ板.net) - Moonspeak coomer chan.<br>
+- [f95zone.to](f95zone.to) - Coomer games.<br>
+- [mikocon.com/forum.php?mod=forumdisplay&fid;=46](mikocon.com/forum.php?mod=forumdisplay&fid;=46) - Hentai<br>
+- [kagero.g-serve.net/jewel/index.xml](kagero.g-serve.net/jewel/index.xml) - Like.. sex dolls and figurines.<br>
+- [carstuckgirls.com](carstuckgirls.com) - Images of slutty looking women with their cars "stuck". A fetish for the strange ones.<br>
+- [literotica.com](literotica.com) - Everybody probably knows it already but posting just in case. Text porn.<br>
+- [nifty.org](nifty.org) - The leading Web 1.0 LGBT text porn site.<br>
+- [tgstorytime.com](tgstorytime.com) - Gender-bender stories. Porn and technically not porn.<br>
+- [jqgraves.com](jqgraves.com) - Spanking stories.<br>
+- [findtubes.com](findtubes.com) - Find Tubes - Free Porn Tube Search Engine.<br>
+- [zooskoolvideos.com](zooskoolvideos.com) - literal beastality<br>
+- [141jav.com](141jav.com) - JAV<br>
+- [javbus.com/en](javbus.com/en) - JAV<br>
+- [javlibrary.com/en](javlibrary.com/en) - JAV<br>
+- [onejav.com](onejav.com) - JAV<br>
+- [cosplay.jav.pw](cosplay.jav.pw) - JAV Cosplay<br>
+- [85.17.187.83/saff/index](85.17.187.83/saff/index) - Extensive porn forum<br>
+- [pornbb.org](pornbb.org) - pornBB<br>
+- [iafd.com](iafd.com) - Internet Adult Film Database<br>
+- [theporndude.com](theporndude.com) - a big list of porn sites<br>
+- [planetsuzy.org](planetsuzy.org) - Porn Forum with a lot of niche categories.<br>
+- [rule34.xxx/index.php?page=post&s;=random](rule34.xxx/index.php?page=post&s;=random) - If it exists there is porn of it.<br>
+- [daftsex.com](daftsex.com) - Millions of free porn videos<br>
+- [hqporner.com](hqporner.com) - Free full length high definition porn<br>
+- [sxyprn.net](sxyprn.net) - Good porn site with no bullshit<br>
+## Image boards and related sites:<br>
+- [bvffalo.land](bvffalo.land) - A list of image boards.<br>
+- [ratwires.space](ratwires.space) - Looks like a purple reddit.<br>
+- [bunbunmaru.com/wakaba](bunbunmaru.com/wakaba) - Weeb chan.<br>
+- [dreamch.net](dreamch.net) - Another chan.<br>
+- [wipp.info](wipp.info) - tl;dr.<br>
+- [postbox.garden](postbox.garden) - the post box "image board"<br>
+- [ib.axypb.net/azu/index](ib.axypb.net/azu/index) - azumanga chan<br>
+- [bus-stop.net](bus-stop.net) - The comfiest little board in the world<br>
+- [4stats.io](4stats.io) - 4chan board stats<br>
+- [illegal.pics](illegal.pics) - 4chan image scraper, very well made.<br>
+- [rinchan.loli.rehab](rinchan.loli.rehab) - A cool imageboard<br>
+- [info.stylee32.net](info.stylee32.net) - some old 4chan infographics, I think mostly from the Information Library from 2010.<br>
+- [namelessrumia.heliohost.org/w/doku](namelessrumia.heliohost.org/w/doku) - Articles about weeb stuff and chans.<br>
+- [alogs.theguntretort.com/robowaifu](alogs.theguntretort.com/robowaifu) - imageboard where they talk about DIY robo waifus<br>
+- [catalog.neet.tv/g](catalog.neet.tv/g) - original catalog<br>
+- [desuarchive.org](desuarchive.org) - Archives of many boards (excluding /g/)<br>
+- [rbt.asia/g](rbt.asia/g) - /g/ archives (the only one currently running afaik)<br>
+- [4museum-v.neocities.org](4museum-v.neocities.org) - static 4chan archive from 2006 to 2008<br>
+- [indiachan.com/b](indiachan.com/b) - imageboard for pajeets<br>
+- [orph.link/tripgen](orph.link/tripgen) - Online tripcode generator<br>
+## Data compression sites:<br>
+- [encode.su/forum](encode.su/forum) - Encode's Forum (one of the best websites to talk about data compression)<br>
+- [krinkels.org](krinkels.org) - Krinkels (where game repackers get and share their compression tools)<br>
+- [data-compression.info/index](data-compression.info/index) - The Data Compression Resource<br>
+- [compression.ru/index_en](compression.ru/index_en) - Compression.ru (Russian data compression website)<br>
+- [ethw.org/History_of_Lossless_Data_Compression_Algorithms](ethw.org/History_of_Lossless_Data_Compression_Algorithms) - History of Lossless Data Compression Algorithms<br>
+- [quixdb.github.io/squash-benchmark](quixdb.github.io/squash-benchmark) - Squash Compression Benchmark<br>
+- [mattmahoney.net/dc/text](mattmahoney.net/dc/text) - (Large Text Compression Benchmark)<br>
+- [mattmahoney.net/dc/10gb](mattmahoney.net/dc/10gb) - (10 GB Compression Benchmark)<br>
+- [mattmahoney.net/dc/uiq/index](mattmahoney.net/dc/uiq/index) - (Generic Compression Benchmark)<br>
+- [maximumcompression.com](maximumcompression.com) - Maximum Compression (benchmark of various compression tools last updated in 2011)<br>
+- [github.com/inikep/lzbench](github.com/inikep/lzbench) - lzbench (in-memory benchmark of open source LZ77/LZSS/LZMA compressors)<br>
+- [github.com/powturbo/TurboBench](github.com/powturbo/TurboBench) - TurboBench (benchmark for LZ77, BWT, context mixing and entropy coders)<br>
+## Text tools and related sites:<br>
+- [eeemo.net](eeemo.net) - Zalgo<br>
+- [onlinetexttools.com](onlinetexttools.com) - Useful text tools.<br>
+- [ascii-art-generator.org](ascii-art-generator.org) - Ascii Art creator, allows you to convert images to color or monochrome Ascii Art.<br>
+- [asciiart.club](asciiart.club) - ASCII Art Generator<br>
+- [rhymezone.com](rhymezone.com) - Helps you find rhymes for words<br>
+- [vulgarlang.com](vulgarlang.com) - Builds a constructed language based on vowels and consonants you choose<br>
+- [calligraphr.com/en](calligraphr.com/en) - Turns your handwriting into a font<br>
+- [texteditors.org](texteditors.org) - A wiki about the various text editors out there.<br>
+- [pad.riseup.net](pad.riseup.net) - collaborative word processor online.<br>
+- [protectedtext.com](protectedtext.com) - a really great place to keep text<br>
+- [rentry.co](rentry.co) - another really great place to keep text<br>
+## Video / TV / Movie / Anime sites:<br>
+- [azm.to](azm.to) - Movie streams<br>
+- [lunchflix.net](lunchflix.net) - Movie streams<br>
+- [ihavenotv.com](ihavenotv.com) - Curated list of documentaries<br>
+- [ohh.io](ohh.io) - Another movie site<br>
+- [ww2.batflix.org](ww2.batflix.org) - Another tv show / movie site.<br>
+- [neverthink.tv](neverthink.tv) - Random videos.<br>
+- [peteyvid.com](peteyvid.com) - Search Videos from 70+ Platforms.<br>
+- [stream.allsprk.tv](stream.allsprk.tv) - Random TV channels or something.<br>
+- [lookmovie.io](lookmovie.io) - Another movie site.<br>
+- [.ev01.net](.ev01.net) - Another movie site.<br>
+- [cafehulu.com](cafehulu.com) - Tv shows and movies<br>
+- [my90stv.com](my90stv.com) - a 90s tv simulator that lines up youtube videos of shows and commercials to simulate watching random tv channels.<br>
+- [wimp.com/archives](wimp.com/archives) - Random videos every day since 2008<br>
+- [subsplease.org](subsplease.org) - One stop shop for new anime<br>
+- [aqstream.com/jp](aqstream.com/jp) - streams live japanese tv<br>
+- [animetosho.org](animetosho.org) - Mirrors latest English subbed anime from Nyaa, Anidex, TokyoTosho, through DDL. Also has NZB for Usenet users.<br>
+- [nibl.co.uk/bots](nibl.co.uk/bots) - Download a bunch of anime through XDCC<br>
+- [zfi.org.uk/ArchieSoundboard](zfi.org.uk/ArchieSoundboard) - Soundboard for /wt/ on /fa/ featuring the Pontiph - ArchieLuxury<br>
+- [popcorntime.sh](popcorntime.sh) - like netflix, but free and more complete, VPN needed<br>
+- [vidsrc.me](vidsrc.me) - A database of movies and tv shows which u can use via API.<br>
+- [kitsunekko.net](kitsunekko.net) - Subtitles for your Chinese cartoons<br>
+- [petittube.com](petittube.com) - Random Youtube videos with less than 10 views<br>
+- [app.kosmi.io](app.kosmi.io) - Watch videos (from your pc or online) & play games with friends.<br>
+- [cytu.be](cytu.be) - Free, open source synchtube.<br>
+- [ranimepiracy.github.io/index](ranimepiracy.github.io/index) - anime/manga sources<br>
+- [github.com/kaervin/subserv-mpv-plugin](github.com/kaervin/subserv-mpv-plugin) - Send subtitles displayed by mpv to your web-browser.<br>
+- [streamlord.com](streamlord.com) - Good for streaming movies.<br>
+- [crocovid.com](crocovid.com) - Search what you like, then watch it.<br>
+- [streamy-flix.my-trials.ml](streamy-flix.my-trials.ml) - Search For Any Movie/Documentary, then watch it.<br>
+- [vidlink.org](vidlink.org) - A collection of videos to watch NSFW.<br>
+- [trailers.to](trailers.to) - Another good movie/tv show streaming site.<br>
+- [soapgate.org](soapgate.org) - Another good movie/tv show streaming site.<br>
+- [.himovies.to](.himovies.to) - Another good movie/tv show streaming site.<br>
+- [hdbest.net](hdbest.net) - Another good movie/tv show streaming site.<br>
+- [yesmovies.ag](yesmovies.ag) - Another good movie/tv show streaming site.<br>
+- [databasegdriveplayer.co/movie.php](databasegdriveplayer.co/movie.php) - GDrivePlayer Movie Database.<br>
+## Gaymen related sites:<br>
+- [l4cs.jpn.org/gikopoi/flash/gikopoi141_for/flash_gikopoi](l4cs.jpn.org/gikopoi/flash/gikopoi141_for/flash_gikopoi) - Cat Mario game in which you roam around an isometric city repecting Asians.<br>
+- [legendsworld.net/main/legendsworld](legendsworld.net/main/legendsworld) - Hosts information and download links for hundreds of games in the shooter and adventure genres.<br>
+- [magipack.games](magipack.games) - Full game repacks of old, classic & retro games. Compatible with Windows 10!<br>
+- [bluemaxima.org/flashpoint](bluemaxima.org/flashpoint) - webgame preservation project<br>
+- [candybox2.github.io](candybox2.github.io) - idle game<br>
+- [conwaylife.com/wiki/Main_Page](conwaylife.com/wiki/Main_Page) - Conway's Game of Life wiki, talks about the weird behaviours of cetain patterns inside the game.<br>
+- [androidarts.com](androidarts.com) - Guy does some cool retro console and pc art<br>
+- [vimm.net](vimm.net) - Dedicated to nostalgia for many of the greatest game consoles ever.<br>
+- [nintendo.co.jp/n01/index](nintendo.co.jp/n01/index) - Old nintendo 64 game websites.<br>
+- [noclip.website](noclip.website) - Use only with a reliable GPU. You can load up maps from various 3D games and roam around them on your browser.<br>
+- [pidgi.net/wiki/Special:NewFiles](pidgi.net/wiki/Special:NewFiles) - Official artwork in their source size, generally for Nintendo releases.<br>
+- [suppermariobroth.com](suppermariobroth.com) - Contains lots of niche and obscure content from the Super Mario Bros. franchise<br>
+- [davidwonn.kontek.net](davidwonn.kontek.net) - An archive of obscure video game glitches related to 90s/early 2000s nintendo games<br>
+- [gamepad-tester.com](gamepad-tester.com) - Test the functions of your controller straight from your browser.<br>
+- [thehbg.shop/main](thehbg.shop/main) - Switch homebrew<br>
+- [jits.cc](jits.cc) - Something about the Switch, either homebrew(s) or rom(s)<br>
+- [unrealarchive.org/index](unrealarchive.org/index) - Maintaining availability of user-created content for the Unreal / Unreal Tournament series of games.<br>
+- [freegames-online.info](freegames-online.info) - game website<br>
+- [fivedots.coe.psu.ac.th/~ad/kinect/installation](fivedots.coe.psu.ac.th/~ad/kinect/installation) - Cool stuff to do with your old Xbox Kinect on PC<br>
+- [gamesmountain.com](gamesmountain.com) - Roms<br>
+- [theromdepot.com](theromdepot.com) - Roms<br>
+- [lemmykoopa.com/lkmain](lemmykoopa.com/lkmain) - Mario fanfic and trivia. Still screams ancient web<br>
+- [fantasyanime.com](fantasyanime.com) - Lot's of fan pages to plenty of old jrpgs with guides, screenshots, etc.<br>
+- [fitgirl-repacks.site](fitgirl-repacks.site) - Cracked, compressed games to download.<br>
+- [sullla.com](sullla.com) - A bunch of experimental autism with some older vidya.<br>
+- [nopaystation.com](nopaystation.com) - A superior way of acquiring VITA, PSM, PSP, PSX, PS3, PS4 Games, DLCs, Themes and Updates<br>
+- [mqp.com/fun](mqp.com/fun) - Mostly Gameboy related stuff & GameBoy Book Reader that allows you to make e-books for the system<br>
+- [game.cs-online.club](game.cs-online.club) - Play Counter Strike 1.6 in your browser<br>
+- [steamdb.info](steamdb.info) - Enormous steam database site, useful for buying games on steam sale or showing new games with good ratings<br>
+- [pica-pic.com](pica-pic.com) - digitalised collection of handheld electronic games<br>
+- [haxball.com](haxball.com) - free, top-down, easy to learn, hard to master multiplayer football (as in played with foot and ball) game<br>
+- [myabandonware.com](myabandonware.com) - Download or play abandonware games, from 1978 to 2010<br>
+- [playretrogames.com](playretrogames.com) - Download or play retro games<br>
+- [retrogames.cz](retrogames.cz) - Download or play retro games<br>
+- [classicreload.com](classicreload.com) - Download or play retro games<br>
+- [free80sarcade.com](free80sarcade.com) - Download or play retro games<br>
+- [playclassic.games](playclassic.games) - Download or play retro games<br>
+- [emulator.games](emulator.games) - Download or play retro games<br>
+- [gameshaha.net](gameshaha.net) - Download or play retro games<br>
+- [gamulator.com/roms](gamulator.com/roms) - Download or play retro games<br>
+- [playemulator.com](playemulator.com) - Download or play retro games<br>
+- [emulator.online](emulator.online) - Download or play retro games<br>
+- [ps1fun.com](ps1fun.com) - Download or play PS1 games<br>
+- [archive.org/details/softwarelibrary_flash](archive.org/details/softwarelibrary_flash) - Flash Game Archive<br>
+- [sticksports.com/web-games](sticksports.com/web-games) - Sports Games<br>
+- [airconsole.com](airconsole.com) - Play Games on TV with your Phone as a Controller<br>
+- [surrogate.tv](surrogate.tv) - Remote Control Real Life Games<br>
+- [github.com/leereilly/games](github.com/leereilly/games) - GitHub Hosted Games<br>
+- [arcadeprehacks.com](arcadeprehacks.com) - Hacked Flash Games<br>
+- [bluemaxima.org/flashpoint](bluemaxima.org/flashpoint) - Flash Games Archive<br>
+- [iogames.space](iogames.space) - .io games list<br>
+- [supermariobroscrossover.com/resources/super-mario-bros-crossover.84](supermariobroscrossover.com/resources/super-mario-bros-crossover.84)<br>
+- [kfchess.com](kfchess.com) - Kung Fu Chess, chess without turns.<br>
+- [247freepoker.com](247freepoker.com) - simple texas holdem.<br>
+## Alternative / Paranormal / Conspiracy / Bizarre sites:<br>
+- [ufocasebook.com](ufocasebook.com) - A website that lists details of UFO sightings<br>
+- [dagonbytes.com](dagonbytes.com) - "A page dedicated to everything gothic"<br>
+- [spookinite.com](spookinite.com) - Spooky stories<br>
+- [theshadowlands.net](theshadowlands.net) - Website about the paranormal<br>
+- [lindashauntedhalloween.us](lindashauntedhalloween.us) - Fun halloween website<br>
+- [mulholland-drive.net/studies/theories](mulholland-drive.net/studies/theories) - A website with a ton of theories related to the movie 'Mulholland Drive'<br>
+- [archive.is/kyiWM](archive.is/kyiWM) - Anti Semitism<br>
+- [softpanorama.org](softpanorama.org) - This site advocates skepticism as an approach to study of both technical and social phenomena.<br>
+- [alexchiu.com](alexchiu.com) - Alex Chiu's immortality rings<br>
+- [futuretimeline.net/index](futuretimeline.net/index) - Some kind of doomer future prediction site.<br>
+- [planecrashinfo.com/lastwords](planecrashinfo.com/lastwords) - Pretty much explained in the url, warning: sad.<br>
+- [exitmundi.nl/exitmundi](exitmundi.nl/exitmundi) - Dooms day scenarios<br>
+- [cat-v.org](cat-v.org) - anti-culture technology community<br>
+- [timecube.2enp.com](timecube.2enp.com) - Time Cube was a personal web page, founded in 1997 by the "wisest man on earth", Gene Ray. RIP<br>
+- [nwowatch.neocities.org](nwowatch.neocities.org) - Some guy keeping an eye on the NWO for us.<br>
+- [cubertown.neocities.org](cubertown.neocities.org) - A rabbithole of its own kind. Filled with strange imagery and hatred of consumerism, cool looking though.<br>
+- [hessdalen.org/index_e.](hessdalen.org/index_e.) - a town in norway that keeps seeing lights in the sky that frequently it decided to document them<br>
+- [whale.to](whale.to) - Conspiracy theories<br>
+- [bfro.net](bfro.net) - Bigfoot Field Researchers Organization<br>
+- [abelard.org/choose/choose](abelard.org/choose/choose) - something about some mythical thing in Mongolia.<br>
+- [sentimentalcorp.org](sentimentalcorp.org) - Bizarre website<br>
+- [richplanet.net](richplanet.net) - Professional conspiracy theorist from the UK, lots of content.<br>
+## Niche interest sites:<br>
+- [manuscriptminiatures.com](manuscriptminiatures.com) - An image collection of miniatures depicting armoured figures from the medieval period.<br>
+- [hvartial.kapsi.fi](hvartial.kapsi.fi) - DIY boats, also vintage site design.<br>
+- [worlddreambank.org](worlddreambank.org) - dream database<br>
+- [posemaniacs.com](posemaniacs.com) - Hundreds of pictures of various cgi poses<br>
+- [roadcurvature.com](roadcurvature.com) - For car guy anons (Find twisty roads)<br>
+- [hackmd.io/@Patchboi/PatchThread](hackmd.io/@Patchboi/PatchThread) - /k/'s patch websites<br>
+- [yahoo.aleado.com/about_yahoo_en](yahoo.aleado.com/about_yahoo_en) - Japanese auctions for non japanese people.<br>
+- [unspokencinema.blogspot.com](unspokencinema.blogspot.com) - blog about Contemporary Contemplative Cinema<br>
+- [ourworldindata.org](ourworldindata.org) - objective viewpoints on world change<br>
+- [jacobitemag.com](jacobitemag.com) - contemporary culture discussion<br>
+- [hedgehogreview.com](hedgehogreview.com) - contemporary culture discussion<br>
+- [metamoderna.org](metamoderna.org) - contemporary culture discussion<br>
+- [publicdomainreview.org](publicdomainreview.org) - contemporary culture discussion<br>
+- [track044.neocities.org](track044.neocities.org) - some sort of photographer's personal site, really a wip but cool aesthetic.<br>
+- [dunkleshreken-at-work.neocities.org](dunkleshreken-at-work.neocities.org) - an artist portfolio site with some cool hidden links and pages, seems to be under-construction still.<br>
+- [whereareyou.neocities.org](whereareyou.neocities.org) - seems to just be a cryptic website for an artist, pretty cool looking though.<br>
+- [collections.royalarmouries.org](collections.royalarmouries.org) - something about armour<br>
+- [wiktenauer.com](wiktenauer.com) - Historical european martial arts. many scanned combat treatises with transcriptions and translations.<br>
+- [mrblinky.net/tama/go/ezgotchi](mrblinky.net/tama/go/ezgotchi) - Tamagotchi Tama-go points generator<br>
+- [mrblinky.net/tama/friends/ezgotchi/?](mrblinky.net/tama/friends/ezgotchi/?) - Same as above but for Tamagotchi Friends<br>
+- [ukagaka.firma-erichpache.de/intro.html](ukagaka.firma-erichpache.de/intro.html) - English resources for Ukagaka, a desktop mascot program with a very autistic userbase<br>
+## File conversion sites:<br>
+- [cloudconvert.com](cloudconvert.com) - Nearly all audio, video, document, ebook, archive, image, spreadsheet, formats.<br>
+- [ofoct.com](ofoct.com) - convert office documents, audio, video, image etc. Plus useful tools.<br>
+- [freeconvert.com](freeconvert.com) - image, video, document, and music + File Compressors and video tools.<br>
+- [online-convert.com](online-convert.com) - All the normal stuff + Webservice converter.<br>
+- [convertio.co](convertio.co) - Another great online converter.<br>
+- [zamzar.com](zamzar.com) - Another great online converter.<br>
+- [onlineconverter.com](onlineconverter.com) - Another great online converter.<br>
+## Conversational Chatbots:<br>
+- [replika.ai](replika.ai) - Replika<br>
+- [pandorabots.com/mitsuku](pandorabots.com/mitsuku) - Mitsuku<br>
+- [cleverbot.com](cleverbot.com) - cleverbot<br>
+- [eviebot.com/en](eviebot.com/en) - eviebot<br>
+- [ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php](ec2-54-215-197-164.us-west-1.compute.amazonaws.com/speech.php) - Rose<br>
+- [jabberwacky.com](jabberwacky.com) - jabberwacky<br>
+## SMS verification sites:<br>
+- [github.com/upmasked/number-verifier](github.com/upmasked/number-verifier)<br>
+- [receiveasms.com](receiveasms.com)<br>
+- [sms-online.co/receive-free-sms](sms-online.co/receive-free-sms)<br>
+- [getfreesmsnumber.com<](getfreesmsnumber.com<)br>
+- [tempophone.com](tempophone.com)<br>
+- [sms-receive.net](sms-receive.net)<br>
+- [receivesmsonline.net](receivesmsonline.net)<br>
+- [7sim.net](7sim.net)<br>
+- [hs3x.com](hs3x.com)<br>
+- [receivefreesms.com](receivefreesms.com)<br>
+- [receivesmsonline.in](receivesmsonline.in)<br>
+- [smsver.com](smsver.com)<br>
+- [receive-sms-online.com](receive-sms-online.com)<br>
+- [sms.sellaite.com](sms.sellaite.com)<br>
+- [freeonlinephone.org](freeonlinephone.org)<br>
+- [freeonlinephone.org](freeonlinephone.org)<br>
+- [freereceivesmsonline.com](freereceivesmsonline.com)<br>
+- [es.mytrashmobile.com/numeros](es.mytrashmobile.com/numeros)<br>
+- [temp-mails.com/number](temp-mails.com/number)<br>
+## Torrenting sites:<br>
+- [knaben.net](knaben.net) - Magnet search engine<br>
+- [zbigz.com](zbigz.com) - Online torrent client.<br>
+- [unblocked-pw.github.io](unblocked-pw.github.io) - Mirrors for good torrent sites.<br>
+- [newtrackon.com/list](newtrackon.com/list) - List of stable trackers.<br>
+- [alphareign.net](alphareign.net) - Torrent index<br>
+- [zooqle.com](zooqle.com) - torrents<br>
+- [dark-libria.it](dark-libria.it)<br>
+- [nyaa.net](nyaa.net) - Nyaa Torrents (non-cartel version. Made by a fellow /g/entooman when the original Nyaa went down)<br>
+- [acgnx.se](acgnx.se) - Project AcgnX Torrent (anime tracker)<br>
+- [anix.moe](anix.moe) - AniX.Moe (the "Sukebei" of AcgnX)<br>
+- [anirena.com](anirena.com) - AniRena (anime tracker)<br>
+- [kinozal.tv](kinozal.tv) - Kinozal (Russian torrent tracker with a focus on films)<br>
+- [nnmclub.to](nnmclub.to) - NNM-Club (Russian tracker)<br>
+- [pornolab.net/forum/index](pornolab.net/forum/index) - Pornolab (Russian porn tracker)<br>
+- [rustorka.com](rustorka.com) - Rustorka (Russian tracker)<br>
+- [forum.touki.ru/open](forum.touki.ru/open) - Touki (Russian anime tracker)<br>
+- [legittorrents.info](legittorrents.info) - Legit Torrents (100% legal torrents)<br>
+- [publicdomaintorrents.info](publicdomaintorrents.info) - Public Domain Movie Torrents<br>
+- [bt.etree.org](bt.etree.org) - etree.org Community Bittorrent Tracker (free live convert recordings)<br>
+- [concen.org/torrents](concen.org/torrents) - ConCen (tracker with lots of /pol/ and /x/-tier content)<br>
+- [btdb.eu](btdb.eu) - Download Movies, TV Series, Music for Free Online from Torrent Search Engine<br>
+- [sysinfo.io/bittorrent-ip-blocklists](sysinfo.io/bittorrent-ip-blocklists) - Bittorrent IP Blocklists<br>
+- [nyaa.si](nyaa.si) - Best place to torrent your animes from<br>
+- [1337x.to](1337x.to) - torrents<br>
+- [rarbg.to](rarbg.to) - torrents<br>
+- [rutracker.net](rutracker.net) - torrents<br>
+- [skytorrents.lol](skytorrents.lol) - torrents<br>
+- [academictorrents.com](academictorrents.com) - torrents<br>
+- [down.ali213.net](down.ali213.net) - torrents<br>
+- [anidex.info](anidex.info) - torrents<br>
+- [cinecalidad.is](cinecalidad.is) - torrents<br>
+- [cpabien.tv](cpabien.tv) - torrents<br>
+- [cpasbien.to](cpasbien.to) - torrents<br>
+- [lovetheboxx.be](lovetheboxx.be) - torrents<br>
+- [share.dmhy.org](share.dmhy.org) - torrents<br>
+- [elitetorrent.com](elitetorrent.com) - torrents<br>
+- [ettv.tv](ettv.tv) - torrents<br>
+- [extratorrent.si](extratorrent.si) - torrents<br>
+- [ilcorsaroblu.org](ilcorsaroblu.org) - torrents<br>
+- [ilcorsaronero.gratis](ilcorsaronero.gratis) - torrents<br>
+- [corsaro.red](corsaro.red) - torrents<br>
+- [kickass-cr.online](kickass-cr.online) - torrents<br>
+- [linuxtracker.org](linuxtracker.org) - torrents<br>
+- [magnetdl.com](magnetdl.com) - torrents<br>
+- [mejortorrents.net](mejortorrents.net) - torrents<br>
+- [rawkbawx.rocks](rawkbawx.rocks) - torrents<br>
+- [rutor.info](rutor.info) - torrents<br>
+- [small-games.info](small-games.info) - torrents<br>
+- [solotorrent.net](solotorrent.net) - torrents<br>
+- [subtorrents.nl](subtorrents.nl) - torrents<br>
+- [sukebei.nyaa.si](sukebei.nyaa.si) - torrents<br>
+- [sukebei.nyaa.net](sukebei.nyaa.net) - torrents<br>
+- [tokyotosho.info/index](tokyotosho.info/index) - torrents<br>
+- [oxtorrent.cc](oxtorrent.cc) - torrents<br>
+- [torrentfunk.com](torrentfunk.com) - torrents<br>
+- [torrentgalaxy.to](torrentgalaxy.to) - torrents<br>
+- [torrentproject2.com](torrentproject2.com) - torrents<br>
+- [uniondht.org](uniondht.org) - torrents<br>
+- [yourbittorrent.com](yourbittorrent.com) - torrents<br>
+- [yts.mx](yts.mx) - torrents<br>
+## Uncategorized siteswill sort soon (will sort soon):<br>
+- [bcuninstaller.com](bcuninstaller.com) - FOSS app for windows that allows you to easily uninstall apps in bulk.<br>
+- [nomacs.org](nomacs.org) - FOSS, mimalistic image viewer Windows or GNU/Linux<br>
+- [bleachbit.org](bleachbit.org) - FOSS app used to clear unused disk space, like CCleaner but open source.<br>
+- [github.com/Tyrrrz/LightBulb](github.com/Tyrrrz/LightBulb) - FOSS alternative to f.lux for Windows<br>
+- [windirstat.net](windirstat.net) - FOSS, lightweight app for windows that shows you graphically which files and folders occupy most space on your disk<br>
+- [github.com/shundhammer/qdirstat](github.com/shundhammer/qdirstat) - windirstat but for GNU/Linux, also FOSS<br>
+- [angusj.com/pdftkb](angusj.com/pdftkb) - FOSS, GUI for pdftk it enables all the elements from pdftk that are normally paywalled.<br>
+- [mupdf.com](mupdf.com) - FOSS, minimalistic pdf viewer.<br>
+- [coom.tech](coom.tech) - Official /cumg/ Website<br>
+- [psddd.co](psddd.co) - Free Photoshop & Sketch UI Templates<br>
+- [toptechpal.com](toptechpal.com) - Looks like clickbait but some useful stuff<br>
+- [fake-it.ws](fake-it.ws) - Fake Name & Identity Generator<br>
+- [freesoff.com/top/weekly](freesoff.com/top/weekly) - some maybe useful free stuff<br>
+- [bestccgen.com/namso-ccgen](bestccgen.com/namso-ccgen) - credit card generator<br>
+- [mrchecker.net/card/ccn2](mrchecker.net/card/ccn2) - credit card checker<br>
+- [downloadpirate.com](downloadpirate.com) - Cracked stuff<br>
+- [fanspace.com](fanspace.com) - Free hosting<br>
+- [x10hosting.com](x10hosting.com) - Cloud hosting that's free and unlimited<br>
+- [googiehost.com/freehosting](googiehost.com/freehosting) - Free hosting, No ads<br>
+- [000webhost.com](000webhost.com) - Zero cost website hosting with PHP, MySQL, cPanel & no ads!<br>
+- [olab.in](olab.in) - "Completely free hosting for life"<br>
+- [freehosting.com](freehosting.com) - Another free hosting site<br>
+- [freeupload.net](freeupload.net) - Free cPanel Hosting | No Ads | Free SSL<br>
+- [neave.tv](neave.tv) - simulated channel hopping<br>
+- [divergentdave.github.io/nsa-o-matic](divergentdave.github.io/nsa-o-matic) - Excerpts of NSA spy programs<br>
+- [9-eyes.com](9-eyes.com) - A big list of mildly interesting google streetview images<br>
+- [cachemonet.com](cachemonet.com) - The best random single serving site<br>
+- [pointerpointer.com](pointerpointer.com) - Points at your pointer<br>
+- [unforgettable.dk](unforgettable.dk) - Do you have enough diskspace to extract a 42 byte .zip?<br>
+
+
