@@ -1,6 +1,6 @@
 # 4chan /g/ goodsites archive<br>
 List of sites based on https://www.goodsites.tech since domain name expired<br>
-
+Sites are added through https://archive.org (19/12/2021 23:48:38)
 ## Alternative search engines:
 * [wiby.me](https://wiby.me) - A search engine for older style pages.<br>
 * [theoldnet.com](https://theoldnet.com)- A retro search engine for retro websites.<br>
