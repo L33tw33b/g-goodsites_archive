@@ -88,7 +88,7 @@ Sites are added through https://archive.org (19/12/2021 23:48:38)
 * [furaba-animeseichi.blog.jp](https://furaba-animeseichi.blog.jp) - Real life locations compared to same scenes found in anime<br>
 * [thetruesize.com](https://thetruesize.com) - the true size of countries<br>
 * [spacehey.com](https://spacehey.com) - is a myspace clone that's fully functional!<br>
-* [Useful](https://Useful) sites:<br>
+## Useful sites:<br>
 * [weboas.is](https://weboas.is) - A home page replacement with bookmarks, chat, radio, wallpapers, too much in it to easily describe.<br>
 * [webgradients.com](https://webgradients.com) - Web gradients.<br>
 * [openproxy.space/list](https://openproxy.space/list) - good source for proxies.<br>
@@ -278,7 +278,7 @@ Sites are added through https://archive.org (19/12/2021 23:48:38)
 * [coderprog.com](https://coderprog.com) - Programming books, courses.<br>
 * [jlcollinsnh.com/manifesto](https://jlcollinsnh.com/manifesto) - Best financial advice ever: (actually)<br>
 * [teachyourselfcs.com](https://teachyourselfcs.com) - teach yourself computer science<br>
-## Imageeditors, generators etc. (https://editors, generators etc.) sites:<br>
+## Imageeditors, generators etc. (editors, generators etc.) sites:<br>
 * [photopea.com](https://photopea.com) - Basically photoshop but online.<br>
 * [makewordart.com](https://makewordart.com) - Classic Wordart generator.<br>
 * [jspaint.app](https://jspaint.app) - Classic paint with some intresting features added.<br>
@@ -356,7 +356,7 @@ Sites are added through https://archive.org (19/12/2021 23:48:38)
 * [mangasee123.com](https://mangasee123.com) - reading manga online (official releases)<br>
 * [readcomiconline.to](https://readcomiconline.to) - reading comics online<br>
 * [getcomics.info](https://getcomics.info) - downloading comics<br>
-* [Calibre](https://Calibre) Libraries: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20<br>
+* Calibre Libraries: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20<br>
 ## Humour / fun / Random sites:<br>
 * [github.com/iTODDLERS-BTFO/iToddlers-BTFO](https://github.com/iTODDLERS-BTFO/iToddlers-BTFO) - iToddlers btfo<br>
 * [moanmyip.com](https://moanmyip.com) - Moans your IP<br>
